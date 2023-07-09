@@ -88,3 +88,8 @@ nav li a{
 .about_info{
     text-align: center;
 }
+
+/* What I Do section style */
+#what_i_do_description{
+    padding:30px 340px;
+}
