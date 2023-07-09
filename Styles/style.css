@@ -16,9 +16,24 @@ body{
     font-weight: 700;
     padding:18px 35px;
 }
+.section_title{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.section_description{
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
 /* Header Related CSS */
 .header{
     background-color:#fff8f3;
+    background-image: url(/images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position:bottom right;
 }
 
 /* nav related  css */
@@ -48,7 +63,7 @@ nav li a{
 
 /* Banner Related CSS */
 .banner{
-    padding: 30px 30px 30px 200px;
+    padding: 30px 30px 0px 200px;
     display: flex;
     align-items: center;
 }
@@ -57,3 +72,19 @@ nav li a{
 
 }
 
+/* main section style */
+
+/* About section style */
+.about{
+    padding:130px;
+    border-radius: 10px;
+    background: #fff8f3;
+    margin:130px 0px;
+}
+.about_info_container{
+    display:flex;
+    justify-content: space-around;
+}
+.about_info{
+    text-align: center;
+}
