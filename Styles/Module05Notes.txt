@@ -2,3 +2,5 @@
 na hole github live link e giye problem hobe.
 
 2. Github Case Sensitive.(Spelling vul kora jabe na)
+
+3. jekhane / diye (picture, css, js, icon) ana hobe sekhane / er age (.) ditei hobe na hole github live link e seta dekha jabe na.
