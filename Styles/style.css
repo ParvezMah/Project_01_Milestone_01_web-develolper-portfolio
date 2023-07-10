@@ -159,6 +159,25 @@ main{
 /* Footer Section Style */
 footer{
     display: flex;
+    gap:60px;
     background: #fff8f3;
     padding:130px 230px;
+}
+.footer_column{
+    width: 50%;
+}
+.social_links a{
+    margin-right:25px;
+}
+.social_links a img{
+    font-size: 65px;
+}
+.contact input[type="text"], .contact input[type="email"], textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color:#757575;
+    border-radius: 5px;
+    border: 0;
+    width:100%;
 }
